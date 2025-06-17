@@ -1,6 +1,6 @@
 # E-Commerce SQL Coding Challenge
 
-This project contains my solution to **Coding Challenge 6 (RDBMS)** from Hexaware's Hexavarsity program. It includes SQL queries for handling customer orders, product stock, cart activity, and various insights into the e-commerce database.
+This project contains my solution to **Coding Challenge (RDBMS)** from Hexaware's Hexavarsity program. It includes SQL queries for handling customer orders, product stock, cart activity, and various insights into the e-commerce database.
 
 ---
 
