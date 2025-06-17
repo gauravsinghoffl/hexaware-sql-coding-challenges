@@ -31,6 +31,6 @@ This project contains my solution to **Coding Challenge (RDBMS)** from Hexaware'
 
 ## 📬 Contact
 
-**Name:** [Gaurav Singh]
+**Name:** [Gaurav Singh]  
 **Email:** [2116181@saec.ac.in]  
 
