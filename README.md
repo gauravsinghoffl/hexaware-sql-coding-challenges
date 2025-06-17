@@ -42,3 +42,10 @@ This challenge involved building and querying a relational database for an e-com
 **Name:** Gaurav Singh  
 **Email:** [2116181@saec.ac.in]  
 
+---
+
+## 🙏 Final Notes
+
+All tasks have been successfully implemented and tested using SQL Server in Visual Studio. This challenge helped me reinforce practical SQL skills, especially those used in backend data handling and reporting for e-commerce applications.
+
+Thank you for reviewing my work.
