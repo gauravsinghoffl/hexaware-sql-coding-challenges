@@ -4,6 +4,14 @@ This project contains my solution to **Coding Challenge (RDBMS)** from Hexaware'
 
 ---
 
+## 📚 Project Summary
+
+This challenge involved building and querying a relational database for an e-commerce application. The work includes:
+- Creating and populating tables (`customers`, `products`, `cart`, `orders`, and `order_items`)
+- Writing SQL queries to solve 19 specific real-world business problems
+
+---
+
 ## 🛠 Technologies Used
 
 - SQL Server (Visual Studio)
