@@ -14,7 +14,8 @@ This challenge involved building and querying a relational database for an e-com
 
 ## 🛠 Technologies Used
 
-- SQL Server (Visual Studio)
+- Microsoft SQL Server
+- Visual Studio
 - T-SQL
 - Relational Database concepts (PK, FK, JOIN, Subqueries, Aggregation)
 
