@@ -15,7 +15,7 @@ This project contains my solution to **Coding Challenge (RDBMS)** from Hexaware'
 ## 📂 Contents
 
 - `Ecommerce - SQL Coding Challenge`.docx – Contains table creation, data insertion, and solutions for all 19 tasks
-- `screenshots/` – Screenshots of query outputs if needed
+- `screenshots/` – Screenshots of query outputs included in the above docx file
 - `README.md` – Summary and documentation
 
 
